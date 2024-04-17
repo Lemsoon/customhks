@@ -1,0 +1,12 @@
+main {
+  height: 100vh;
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+
+  .use-counter,
+  .use-toggle {
+    border: 0.1rem solid black;
+    padding: 1rem;
+  }
+}
